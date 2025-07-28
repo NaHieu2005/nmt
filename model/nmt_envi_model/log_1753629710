@@ -1,0 +1,4 @@
+# log_file=model/nmt_envi_model\log_1753629710
+# Start step 0, lr 1, Sun Jul 27 22:21:57 2025
+  step 100 lr 1 step-time 2.35s wps 2.39K ppl 3324.81 gN 19.91 bleu 0.00, Sun Jul 27 22:25:52 2025
+  step 200 lr 1 step-time 2.25s wps 2.48K ppl 797.19 gN 8.60 bleu 0.00, Sun Jul 27 22:29:37 2025
